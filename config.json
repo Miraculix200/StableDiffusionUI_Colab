@@ -98,7 +98,7 @@
     "js_modal_lightbox": true,
     "js_modal_lightbox_initially_zoomed": true,
     "show_progress_in_title": true,
-    "quicksettings": "sd_model_checkpoint,img2img_color_correction,inpainting_mask_weight,sd_vae",
+    "quicksettings": "sd_model_checkpoint,img2img_color_correction,inpainting_mask_weight,sd_vae, sd_hypernetwork,sd_hypernetwork_strength",
     "localization": "None",
     "hide_samplers": [],
     "eta_ddim": 0,
