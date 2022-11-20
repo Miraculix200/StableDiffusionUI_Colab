@@ -58,7 +58,7 @@
     "training_image_repeats_per_epoch": 1,
     "training_write_csv_every": 500.0,
     "training_xattention_optimizations": false,
-    "sd_model_checkpoint": "Anything-V3.0-pruned.ckpt [2700c435]",
+    "sd_model_checkpoint": "",
     "sd_checkpoint_cache": 0,
     "sd_vae": "auto",
     "sd_hypernetwork": "None",
